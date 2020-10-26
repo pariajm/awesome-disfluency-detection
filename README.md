@@ -72,11 +72,12 @@ Disfluency detection paper roadmap including traditional and deep neural models.
 - [**Disfluency detection based on speech-aware token-by-token sequence labeling with BLSTM-CRFs and attention mechanisms**](http://www.apsipa.org/proceedings/2019/pdfs/185.pdf). Tanaka et al. *APSIPA 2019*.
 
 
-
 ### 2020
 - [**Improving disfluency detection by self-training a self-attentive model**](https://www.aclweb.org/anthology/2020.acl-main.346.pdf). Jamshid Lou et al. *ACL 2020*. [[code]](https://github.com/pariajm/joint-disfluency-detector-and-parser)
 
 - [**End-to-end speech recognition and disfluency removal**](https://arxiv.org/abs/2009.10298v2). Jamshid Lou et al. *EMNLP Findings 2020*. [[code]](https://github.com/pariajm/e2e-asr-and-disfluency-removal-evaluator)
+
+- [**Joint prediction of punctuation and disfluency in speech transcripts**](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-5-9.pdf). Lin et al. *InterSpeech 2020*.
 
 ### Contact
 
