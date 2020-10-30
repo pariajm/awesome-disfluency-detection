@@ -79,6 +79,10 @@ Disfluency detection paper roadmap including traditional and deep neural models.
 
 - [**Joint prediction of punctuation and disfluency in speech transcripts**](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-5-9.pdf). Lin et al. *InterSpeech 2020*.
 
+- [**Planning and generating natural and diverse disfluent texts as augmentation for disfluency detection**](https://www.cc.gatech.edu/~dyang888/docs/emnlp20_disfluency.pdf) Yang et al. *EMNLP 2020*
+
+- [**Combining self-training and self-supervised learning for unsupervised disfluency detection**](http://ir.hit.edu.cn/~slwang/emnlp2020.pdf) Wang et al. *EMNLP 2020*
+
 ### Contact
 
 Paria Jamshid Lou <paria.jamshid-lou@hdr.mq.edu.au>
