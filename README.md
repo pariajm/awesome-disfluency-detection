@@ -42,7 +42,7 @@ Disfluency detection paper roadmap including traditional and deep neural models.
 ### 2017
 - [**Disfluency detection using a noisy channel model and a deep neural language model**](https://www.aclweb.org/anthology/P17-2087.pdf). Jamshid Lou et al. *ACL 2017*. 
 
-- [**Transition-based disfluency detection using LSTMs**](https://www.aclweb.org/anthology/D17-1296.pdf). Wang et al. *EMNLP 2017*.
+- [**Transition-based disfluency detection using LSTMs**](https://www.aclweb.org/anthology/D17-1296.pdf). Wang et al. *EMNLP 2017*. [[code]](https://github.com/hitwsl/transition_disfluency))
 
 ### 2018
 
@@ -72,13 +72,19 @@ Disfluency detection paper roadmap including traditional and deep neural models.
 - [**Disfluency detection based on speech-aware token-by-token sequence labeling with BLSTM-CRFs and attention mechanisms**](http://www.apsipa.org/proceedings/2019/pdfs/185.pdf). Tanaka et al. *APSIPA 2019*.
 
 ### 2020
+- [**Multi-Task Self-Supervised Learning for Disfluency Detection**](https://arxiv.org/pdf/1908.05378.pdf). Wang et al. *AAAI 2020*.
+
 - [**Controllable Time-Delay Transformer for Real-Time Punctuation Prediction and Disfluency Detection**](https://arxiv.org/pdf/2003.01309.pdf). Chen et al. *ICASSP 2020*.
 
 - [**Improving disfluency detection by self-training a self-attentive model**](https://www.aclweb.org/anthology/2020.acl-main.346.pdf). Jamshid Lou et al. *ACL 2020*. [[code]](https://github.com/pariajm/joint-disfluency-detector-and-parser)
 
+- [**Speech Disfluencies occur at Higher Perplexities**](https://www.aclweb.org/anthology/2020.cogalex-1.11.pdf). Sen. *Cognitive Aspects of the Lexicon Workshop 2020*. 
+
 - [**Auxiliary Sequence Labeling Tasks for Disfluency Detection**](https://arxiv.org/pdf/2011.04512v1.pdf). Lee et al. *arxiv 2020*.
 
 - [**Joint prediction of punctuation and disfluency in speech transcripts**](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-5-9.pdf). Lin et al. *InterSpeech 2020*.
+
+- [**Multi-modal fusion with gating using audio, lexical and disfluency features forAlzheimer’s Dementia recognition from spontaneous speech**](https://isca-speech.org/archive/Interspeech_2020/pdfs/2721.pdf). Rohanian et al. *InterSpeech 2020*. [[code]](https://github.com/mortezaro/ad-recognition-from-speech)
 
 - [**End-to-end speech recognition and disfluency removal**](https://arxiv.org/abs/2009.10298v2). Jamshid Lou et al. *EMNLP Findings 2020*. [[code]](https://github.com/pariajm/e2e-asr-and-disfluency-removal-evaluator)
 
