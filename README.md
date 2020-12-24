@@ -57,7 +57,7 @@ Disfluency detection paper roadmap including traditional and deep neural models.
 
 ### 2019
 
-- [**Adapting translationmodels for transcript disfluency detection**](https://www.aaai.org/ojs/index.php/AAAI/article/view/4597). Dong et al. *AAAI 2019*
+- [**Adapting translation models for transcript disfluency detection**](https://www.aaai.org/ojs/index.php/AAAI/article/view/4597). Dong et al. *AAAI 2019*.
 
 - [**Neural constituency parsing of speech transcripts**](https://www.aclweb.org/anthology/N19-1282.pdf). Jamshid Lou et al. *NAACL 2019*. [[code]](https://github.com/pariajm/joint-disfluency-detector-and-parser/tree/naacl2019)oisy
 
@@ -71,8 +71,9 @@ Disfluency detection paper roadmap including traditional and deep neural models.
  
 - [**Disfluency detection based on speech-aware token-by-token sequence labeling with BLSTM-CRFs and attention mechanisms**](http://www.apsipa.org/proceedings/2019/pdfs/185.pdf). Tanaka et al. *APSIPA 2019*.
 
-
 ### 2020
+- [**Controllable Time-Delay Transformer for Real-Time Punctuation Prediction and Disfluency Detection**](https://arxiv.org/pdf/2003.01309.pdf). Chen et al. *ICASSP 2020*.
+
 - [**Improving disfluency detection by self-training a self-attentive model**](https://www.aclweb.org/anthology/2020.acl-main.346.pdf). Jamshid Lou et al. *ACL 2020*. [[code]](https://github.com/pariajm/joint-disfluency-detector-and-parser)
 
 - [**Auxiliary Sequence Labeling Tasks for Disfluency Detection**](https://arxiv.org/pdf/2011.04512v1.pdf). Lee et al. *arxiv 2020*.
@@ -81,9 +82,9 @@ Disfluency detection paper roadmap including traditional and deep neural models.
 
 - [**End-to-end speech recognition and disfluency removal**](https://arxiv.org/abs/2009.10298v2). Jamshid Lou et al. *EMNLP Findings 2020*. [[code]](https://github.com/pariajm/e2e-asr-and-disfluency-removal-evaluator)
 
-
 - [**Planning and generating natural and diverse disfluent texts as augmentation for disfluency detection**](https://www.cc.gatech.edu/~dyang888/docs/emnlp20_disfluency.pdf) Yang et al. *EMNLP 2020*
 
 - [**Combining self-training and self-supervised learning for unsupervised disfluency detection**](http://ir.hit.edu.cn/~slwang/emnlp2020.pdf) Wang et al. *EMNLP 2020*. [[code]](https://github.com/scir-zywang/self-supervised-active-learning-disfluency)
 
-- [**Re-framing Incremental Deep Language Models for Dialogue Processing with Multi-task Learning**](https://www.aclweb.org/anthology/2020.coling-main.43.pdf) Rohanian et al. *COLING 2020*. [[code]] (https://github.com/mortezaro/mtl-disfluency-detection)
+- [**Re-framing Incremental Deep Language Models for Dialogue Processing with Multi-task Learning**](https://www.aclweb.org/anthology/2020.coling-main.43.pdf) Rohanian et al. *COLING 2020*. [[code]](https://github.com/mortezaro/mtl-disfluency-detection)
+
