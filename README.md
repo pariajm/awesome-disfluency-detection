@@ -79,9 +79,11 @@ Disfluency detection paper roadmap including traditional and deep neural models.
 
 - [**Joint prediction of punctuation and disfluency in speech transcripts**](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-5-9.pdf). Lin et al. *InterSpeech 2020*.
 
-- [**Planning and generating natural and diverse disfluent texts as augmentation for disfluency detection**](https://www.cc.gatech.edu/~dyang888/docs/emnlp20_disfluency.pdf) Yang et al. *EMNLP 2020*
+- [**Multi-Modal Fusion with Gating Using Audio, Lexical and Disfluency Features for Alzheimer’s Dementia Recognition from Spontaneous Speech**](https://isca-speech.org/archive/Interspeech_2020/pdfs/2721.pdf). Rohanian et al. *InterSpeech 2020*. [[code]](https://github.com/mortezaro/ad-recognition-from-speech).
+).
+- [**Planning and generating natural and diverse disfluent texts as augmentation for disfluency detection**](https://www.cc.gatech.edu/~dyang888/docs/emnlp20_disfluency.pdf). Yang et al. *EMNLP 2020*
 
-- [**Combining self-training and self-supervised learning for unsupervised disfluency detection**](http://ir.hit.edu.cn/~slwang/emnlp2020.pdf) Wang et al. *EMNLP 2020*/ [[code]](https://github.com/scir-zywang/self-supervised-active-learning-disfluency)
+- [**Combining self-training and self-supervised learning for unsupervised disfluency detection**](http://ir.hit.edu.cn/~slwang/emnlp2020.pdf). Wang et al. *EMNLP 2020*. [[code]](https://github.com/scir-zywang/self-supervised-active-learning-disfluency)
 
 ### Contact
 
