@@ -1,7 +1,7 @@
-## A Paper List for Disfluency Detection
-Disfluency detection paper roadmap including traditional and deep neural models.
+## Awesome Disfluency Detection
+A curated list of awesome disfluency detection papers along with the released code.
 
-## Contents
+## Paper list by publication year
 - [2020](#2020)
 - [2019](#2019)
 - [2018](#2018)
@@ -13,20 +13,21 @@ Disfluency detection paper roadmap including traditional and deep neural models.
 - [2004](#2004)
 - [2001](#2001)
 
+## Disfluency Detection Papers
 ### 2020
-- [Multi-Task Self-Supervised Learning for Disfluency Detection](https://arxiv.org/pdf/1908.05378.pdf). Wang et al. *AAAI 2020*.
+- [**Multi-task self-supervised learning for disfluency detection**](https://arxiv.org/pdf/1908.05378.pdf). Wang et al. *AAAI 2020*.
 
-- [**Controllable Time-Delay Transformer for Real-Time Punctuation Prediction and Disfluency Detection**](https://arxiv.org/pdf/2003.01309.pdf). Chen et al. *ICASSP 2020*.
+- [**Controllable time-delay transformer for real-time punctuation prediction and disfluency detection**](https://arxiv.org/pdf/2003.01309.pdf). Chen et al. *ICASSP 2020*.
 
 - [**Improving disfluency detection by self-training a self-attentive model**](https://www.aclweb.org/anthology/2020.acl-main.346.pdf). Jamshid Lou et al. *ACL 2020*. [[code]](https://github.com/pariajm/joint-disfluency-detector-and-parser)
 
-- [**Speech Disfluencies occur at Higher Perplexities**](https://www.aclweb.org/anthology/2020.cogalex-1.11.pdf). Sen. *Cognitive Aspects of the Lexicon Workshop 2020*. 
+- [**Speech disfluencies occur at higher perplexities**](https://www.aclweb.org/anthology/2020.cogalex-1.11.pdf). Sen. *Cognitive Aspects of the Lexicon Workshop 2020*. 
 
-- [**Auxiliary Sequence Labeling Tasks for Disfluency Detection**](https://arxiv.org/pdf/2011.04512v1.pdf). Lee et al. *arxiv 2020*.
+- [**Auxiliary sequence labeling tasks for disfluency detection**](https://arxiv.org/pdf/2011.04512v1.pdf). Lee et al. *arxiv 2020*.
 
 - [**Joint prediction of punctuation and disfluency in speech transcripts**](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-5-9.pdf). Lin et al. *InterSpeech 2020*.
 
-- [**Multi-modal fusion with gating using audio, lexical and disfluency features forAlzheimer’s Dementia recognition from spontaneous speech**](https://isca-speech.org/archive/Interspeech_2020/pdfs/2721.pdf). Rohanian et al. *InterSpeech 2020*. [[code]](https://github.com/mortezaro/ad-recognition-from-speech)
+- [**Multi-modal fusion with gating using audio, lexical and disfluency features for Alzheimer’s Dementia recognition from spontaneous speech**](https://isca-speech.org/archive/Interspeech_2020/pdfs/2721.pdf). Rohanian et al. *InterSpeech 2020*. [[code]](https://github.com/mortezaro/ad-recognition-from-speech)
 
 - [**End-to-end speech recognition and disfluency removal**](https://arxiv.org/abs/2009.10298v2). Jamshid Lou et al. *EMNLP Findings 2020*. [[code]](https://github.com/pariajm/e2e-asr-and-disfluency-removal-evaluator)
 
@@ -34,12 +35,9 @@ Disfluency detection paper roadmap including traditional and deep neural models.
 
 - [**Combining self-training and self-supervised learning for unsupervised disfluency detection**](http://ir.hit.edu.cn/~slwang/emnlp2020.pdf). Wang et al. *EMNLP 2020*. [[code]](https://github.com/scir-zywang/self-supervised-active-learning-disfluency)
 
-- [**Re-framing Incremental Deep Language Models for Dialogue Processing with Multi-task Learning**](https://www.aclweb.org/anthology/2020.coling-main.43.pdf). Rohanian et al. *COLING 2020*. [[code]](https://github.com/mortezaro/mtl-disfluency-detection)
-
-
+- [**Re-framing incremental deep language models for dialogue processing with multi-task learning**](https://www.aclweb.org/anthology/2020.coling-main.43.pdf). Rohanian et al. *COLING 2020*. [[code]](https://github.com/mortezaro/mtl-disfluency-detection)
 
 ### 2019
-
 - [**Adapting translation models for transcript disfluency detection**](https://www.aaai.org/ojs/index.php/AAAI/article/view/4597). Dong et al. *AAAI 2019*.
 
 - [**Neural constituency parsing of speech transcripts**](https://www.aclweb.org/anthology/N19-1282.pdf). Jamshid Lou et al. *NAACL 2019*. [[code]](https://github.com/pariajm/joint-disfluency-detector-and-parser/tree/naacl2019)oisy
@@ -54,9 +52,7 @@ Disfluency detection paper roadmap including traditional and deep neural models.
  
 - [**Disfluency detection based on speech-aware token-by-token sequence labeling with BLSTM-CRFs and attention mechanisms**](http://www.apsipa.org/proceedings/2019/pdfs/185.pdf). Tanaka et al. *APSIPA 2019*.
 
-
 ### 2018
-
 - [**Parsing speech: a neural approach to integrating lexical and acoustic-prosodic information**](https://www.aclweb.org/anthology/N18-1007.pdf). Tran et al. *NAACL 2018*. [[code]](https://github.com/shtoshni92/speech_parsing)
 
 - [**Semi-supervised disfluency detection**](https://www.aclweb.org/anthology/C18-1299.pdf). Wang et al. *COLING 2018*.
@@ -64,7 +60,6 @@ Disfluency detection paper roadmap including traditional and deep neural models.
 - [**Disfluency detection using auto-correlational neural networks**](https://www.aclweb.org/anthology/D18-1490.pdf). Jamshid Lou et al. *EMNLP 2018*. [[code]](https://github.com/pariajm/deep-disfluency-detector)
 
 - [**Robust cross-domain disfluency detection with pattern match networks**](https://arxiv.org/pdf/1811.07236.pdf). Zayats et al. *Arxiv 2018*. [[code]](https://github.com/vickyzayats/disfluency_detection)
-
 
 ### 2017
 - [**Disfluency detection using a noisy channel model and a deep neural language model**](https://www.aclweb.org/anthology/P17-2087.pdf). Jamshid Lou et al. *ACL 2017*. 
@@ -77,7 +72,6 @@ Disfluency detection paper roadmap including traditional and deep neural models.
 - [**Joint transition-based dependency parsing and disfluency detection for automatic speech recognition texts**](https://www.aclweb.org/anthology/D16-1109.pdf). Yoshikawa et al. *EMNLP 2016*.
 
 - [**A neural attention model for disfluency detection**](https://www.aclweb.org/anthology/C16-1027/). Wang et al. *COLING 2016*.
-
 
 ### 2015 
 - [**Unediting: detecting disfluencies without careful transcripts**](https://www.aclweb.org/anthology/N15-1161.pdf). Zayats et al. *NAACL 2015*. 
@@ -98,8 +92,5 @@ Disfluency detection paper roadmap including traditional and deep neural models.
 ### 2001
 - [**Edit detection and parsing for transcribed speech**](https://www.aclweb.org/anthology/N01-1016/). Charniak et al. *NAACL 2001*.
 
-
-
-
-
-
+## Contact
+Paria Jamshid Lou <paria.jamshid-lou@hdr.mq.edu.au>
