@@ -1,7 +1,7 @@
 ## Awesome Disfluency Detection
 A curated list of awesome disfluency detection papers along with the released code.
 
-## Paper list by publication year
+## Papers sorted by year of publication
 - [2020](#2020)
 - [2019](#2019)
 - [2018](#2018)
