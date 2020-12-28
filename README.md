@@ -40,7 +40,7 @@ A curated list of awesome disfluency detection papers along with the released co
 ### 2019
 - [**Adapting translation models for transcript disfluency detection**](https://www.aaai.org/ojs/index.php/AAAI/article/view/4597). Dong et al. *AAAI 2019*.
 
-- [**Neural constituency parsing of speech transcripts**](https://www.aclweb.org/anthology/N19-1282.pdf). Jamshid Lou et al. *NAACL 2019*. [[code]](https://github.com/pariajm/joint-disfluency-detector-and-parser/tree/naacl2019)oisy
+- [**Neural constituency parsing of speech transcripts**](https://www.aclweb.org/anthology/N19-1282.pdf). Jamshid Lou et al. *NAACL 2019*. [[code]](https://github.com/pariajm/joint-disfluency-detector-and-parser/tree/naacl2019)
 
 - [**Giving attention to the unexpected: using prosody innovations in disfluency detection**](https://www.aclweb.org/anthology/N19-1008.pdf). Zayats et al. *NAACL 2019*. [[code]](https://github.com/vickyzayats/disfluency_detection)
 
