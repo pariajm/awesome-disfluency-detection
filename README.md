@@ -19,7 +19,7 @@ A curated list of awesome disfluency detection papers along with the released co
 
 - [**Controllable time-delay transformer for real-time punctuation prediction and disfluency detection**](https://arxiv.org/pdf/2003.01309.pdf). Chen et al. *ICASSP 2020*.
 
-- [**Improving disfluency detection by self-training a self-attentive model**](https://www.aclweb.org/anthology/2020.acl-main.346.pdf). Jamshid Lou et al. *ACL 2020*. [[code]](https://github.com/pariajm/joint-disfluency-detector-and-parser)
+- [**Improving disfluency detection by self-training a self-attentive model**](https://www.aclweb.org/anthology/2020.acl-main.346.pdf). Jamshid Lou et al. *ACL 2020*. [**[code]**](https://github.com/pariajm/joint-disfluency-detector-and-parser)
 
 - [**Speech disfluencies occur at higher perplexities**](https://www.aclweb.org/anthology/2020.cogalex-1.11.pdf). Sen. *Cognitive Aspects of the Lexicon Workshop 2020*. 
 
@@ -27,44 +27,44 @@ A curated list of awesome disfluency detection papers along with the released co
 
 - [**Joint prediction of punctuation and disfluency in speech transcripts**](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-5-9.pdf). Lin et al. *InterSpeech 2020*.
 
-- [**Multi-modal fusion with gating using audio, lexical and disfluency features for Alzheimer’s Dementia recognition from spontaneous speech**](https://isca-speech.org/archive/Interspeech_2020/pdfs/2721.pdf). Rohanian et al. *InterSpeech 2020*. [[code]](https://github.com/mortezaro/ad-recognition-from-speech)
+- [**Multi-modal fusion with gating using audio, lexical and disfluency features for Alzheimer’s Dementia recognition from spontaneous speech**](https://isca-speech.org/archive/Interspeech_2020/pdfs/2721.pdf). Rohanian et al. *InterSpeech 2020*. [**[code]**](https://github.com/mortezaro/ad-recognition-from-speech)
 
-- [**End-to-end speech recognition and disfluency removal**](https://arxiv.org/abs/2009.10298v2). Jamshid Lou et al. *EMNLP Findings 2020*. [[code]](https://github.com/pariajm/e2e-asr-and-disfluency-removal-evaluator)
+- [**End-to-end speech recognition and disfluency removal**](https://arxiv.org/abs/2009.10298v2). Jamshid Lou et al. *EMNLP Findings 2020*. [**[code]**](https://github.com/pariajm/e2e-asr-and-disfluency-removal-evaluator)
 
-- [**Planning and generating natural and diverse disfluent texts as augmentation for disfluency detection**](https://www.cc.gatech.edu/~dyang888/docs/emnlp20_disfluency.pdf). Yang et al. *EMNLP 2020*. [[code]](https://github.com/GT-SALT/Disfluency-Generation-and-Detection/tree/main/disfluency-detection)
+- [**Planning and generating natural and diverse disfluent texts as augmentation for disfluency detection**](https://www.cc.gatech.edu/~dyang888/docs/emnlp20_disfluency.pdf). Yang et al. *EMNLP 2020*. [**[code]**](https://github.com/GT-SALT/Disfluency-Generation-and-Detection/tree/main/disfluency-detection)
 
-- [**Combining self-training and self-supervised learning for unsupervised disfluency detection**](http://ir.hit.edu.cn/~slwang/emnlp2020.pdf). Wang et al. *EMNLP 2020*. [[code]](https://github.com/scir-zywang/self-supervised-active-learning-disfluency)
+- [**Combining self-training and self-supervised learning for unsupervised disfluency detection**](http://ir.hit.edu.cn/~slwang/emnlp2020.pdf). Wang et al. *EMNLP 2020*. [**[code]**](https://github.com/scir-zywang/self-supervised-active-learning-disfluency)
 
-- [**Re-framing incremental deep language models for dialogue processing with multi-task learning**](https://www.aclweb.org/anthology/2020.coling-main.43.pdf). Rohanian et al. *COLING 2020*. [[code]](https://github.com/mortezaro/mtl-disfluency-detection)
+- [**Re-framing incremental deep language models for dialogue processing with multi-task learning**](https://www.aclweb.org/anthology/2020.coling-main.43.pdf). Rohanian et al. *COLING 2020*. [**[code]**](https://github.com/mortezaro/mtl-disfluency-detection)
 
 ### 2019
 - [**Adapting translation models for transcript disfluency detection**](https://www.aaai.org/ojs/index.php/AAAI/article/view/4597). Dong et al. *AAAI 2019*.
 
-- [**Neural constituency parsing of speech transcripts**](https://www.aclweb.org/anthology/N19-1282.pdf). Jamshid Lou et al. *NAACL 2019*. [[code]](https://github.com/pariajm/joint-disfluency-detector-and-parser/tree/naacl2019)
+- [**Neural constituency parsing of speech transcripts**](https://www.aclweb.org/anthology/N19-1282.pdf). Jamshid Lou et al. *NAACL 2019*. [**[code]**](https://github.com/pariajm/joint-disfluency-detector-and-parser/tree/naacl2019)
 
-- [**Giving attention to the unexpected: using prosody innovations in disfluency detection**](https://www.aclweb.org/anthology/N19-1008.pdf). Zayats et al. *NAACL 2019*. [[code]](https://github.com/vickyzayats/disfluency_detection)
+- [**Giving attention to the unexpected: using prosody innovations in disfluency detection**](https://www.aclweb.org/anthology/N19-1008.pdf). Zayats et al. *NAACL 2019*. [**[code]**](https://github.com/vickyzayats/disfluency_detection)
 
-- [**On the role of style in parsing speech with neural models**](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3122.pdf). Tran et al. *InterSpeech 2019*. [[code]](https://github.com/trangham283/prosody_nlp/tree/master/code/self_attn_speech_parser)
+- [**On the role of style in parsing speech with neural models**](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3122.pdf). Tran et al. *InterSpeech 2019*. [**[code]**](https://github.com/trangham283/prosody_nlp/tree/master/code/self_attn_speech_parser)
 
-- [**Disfluencies and human speech transcription errors**](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3134.pdf). Zayats et al. *InterSpeech 2019*. [[code]](https://github.com/vickyzayats/switchboard_corrected_reannotated)
+- [**Disfluencies and human speech transcription errors**](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3134.pdf). Zayats et al. *InterSpeech 2019*. [**[code]**](https://github.com/vickyzayats/switchboard_corrected_reannotated)
 
 - [**Noisy BiLSTM-based models for disfluency detection**](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1336.pdf). Bach et al. *InterSpeech 2019*. 
  
 - [**Disfluency detection based on speech-aware token-by-token sequence labeling with BLSTM-CRFs and attention mechanisms**](http://www.apsipa.org/proceedings/2019/pdfs/185.pdf). Tanaka et al. *APSIPA 2019*.
 
 ### 2018
-- [**Parsing speech: a neural approach to integrating lexical and acoustic-prosodic information**](https://www.aclweb.org/anthology/N18-1007.pdf). Tran et al. *NAACL 2018*. [[code]](https://github.com/shtoshni92/speech_parsing)
+- [**Parsing speech: a neural approach to integrating lexical and acoustic-prosodic information**](https://www.aclweb.org/anthology/N18-1007.pdf). Tran et al. *NAACL 2018*. [**[code]**](https://github.com/shtoshni92/speech_parsing)
 
 - [**Semi-supervised disfluency detection**](https://www.aclweb.org/anthology/C18-1299.pdf). Wang et al. *COLING 2018*.
 
-- [**Disfluency detection using auto-correlational neural networks**](https://www.aclweb.org/anthology/D18-1490.pdf). Jamshid Lou et al. *EMNLP 2018*. [[code]](https://github.com/pariajm/deep-disfluency-detector)
+- [**Disfluency detection using auto-correlational neural networks**](https://www.aclweb.org/anthology/D18-1490.pdf). Jamshid Lou et al. *EMNLP 2018*. [**[code]**](https://github.com/pariajm/deep-disfluency-detector)
 
-- [**Robust cross-domain disfluency detection with pattern match networks**](https://arxiv.org/pdf/1811.07236.pdf). Zayats et al. *Arxiv 2018*. [[code]](https://github.com/vickyzayats/disfluency_detection)
+- [**Robust cross-domain disfluency detection with pattern match networks**](https://arxiv.org/pdf/1811.07236.pdf). Zayats et al. *Arxiv 2018*. [**[code]**](https://github.com/vickyzayats/disfluency_detection)
 
 ### 2017
 - [**Disfluency detection using a noisy channel model and a deep neural language model**](https://www.aclweb.org/anthology/P17-2087.pdf). Jamshid Lou et al. *ACL 2017*. 
 
-- [**Transition-based disfluency detection using LSTMs**](https://www.aclweb.org/anthology/D17-1296.pdf). Wang et al. *EMNLP 2017*. [[code]](https://github.com/hitwsl/transition_disfluency))
+- [**Transition-based disfluency detection using LSTMs**](https://www.aclweb.org/anthology/D17-1296.pdf). Wang et al. *EMNLP 2017*. [**[code]**](https://github.com/hitwsl/transition_disfluency))
 
 ### 2016
 - [**Disfluency detection using a bidirectional LSTM**](https://www.isca-speech.org/archive/Interspeech_2016/pdfs/1247.PDF). Zayats et al. *InterSpeech 2016*.
