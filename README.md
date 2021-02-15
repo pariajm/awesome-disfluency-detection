@@ -34,7 +34,11 @@ A curated list of awesome disfluency detection papers along with the released co
 
 - **Auxiliary sequence labeling tasks for disfluency detection.** Lee et al. *arxiv 2020*. [**[pdf]**](https://arxiv.org/pdf/2011.04512v1.pdf) 
 
-- **Joint prediction of punctuation and disfluency in speech transcripts.** Lin et al. *InterSpeech 2020*. [**[pdf]**](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-5-9.pdf)
+- **Disfluencies and fine-tuning pre-trained language models for detection of Alzheimer’s disease.** Yuan et al. *InterSpeech 2020*. [**[pdf]**](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/2516.pdf) [**[bib]**](https://isca-speech.org/archive/Interspeech_2020/abstracts/2516.html)
+
+- **Joint prediction of punctuation and disfluency in speech transcripts.** Lin et al. *InterSpeech 2020*. [**[pdf]**](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-5-9.pdf) [**[bib]**](https://isca-speech.org/archive/Interspeech_2020/abstracts/1277.html)
+
+- **Analysis of Disfluency in Children’s Speech.** Tran et al. *InterSpeech 2020*. [**[pdf]**](https://isca-speech.org/archive/Interspeech_2020/pdfs/3037.pdf) [**[bib]**](https://isca-speech.org/archive/Interspeech_2020/abstracts/3037.html)
 
 - **Multi-modal fusion with gating using audio, lexical and disfluency features for Alzheimer’s Dementia recognition from spontaneous speech.** Rohanian et al. *InterSpeech 2020*. [**[pdf]**](https://isca-speech.org/archive/Interspeech_2020/pdfs/2721.pdf) [**[bib]**](https://isca-speech.org/archive/Interspeech_2020/abstracts/2721.html) [**[code]**](https://github.com/mortezaro/ad-recognition-from-speech) 
 
