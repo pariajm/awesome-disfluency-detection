@@ -18,7 +18,9 @@ A curated list of awesome disfluency detection papers along with the released co
 ## Disfluency Detection Papers
 ### 2021
 - **Effects of duration, locality, and surprisal in speech disfluency prediction in English spontaneous speech prediction in English spontaneous speech.** Dammalapati et al. *Society for Computation in Linguistics (SCiL) 2021*. [**[pdf]**](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1229&context=scil)
- 
+
+- **Semantic parsing of disfluent speech.** Sen et al. *EACL 2021*. [**[pdf]**](https://assets.amazon.science/14/96/a1234b3941b98728d63540833193/semantic-partsing-of-disfluent-speech.pdf)
+
 ### 2020
 - **Multi-task self-supervised learning for disfluency detection.** Wang et al. *AAAI 2020*. [**[pdf]**](https://arxiv.org/pdf/1908.05378.pdf) 
 
