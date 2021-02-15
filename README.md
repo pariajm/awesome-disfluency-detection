@@ -22,6 +22,8 @@ A curated list of awesome disfluency detection papers along with the released co
 - **Semantic parsing of disfluent speech.** Sen et al. *EACL 2021*. [**[pdf]**](https://assets.amazon.science/14/96/a1234b3941b98728d63540833193/semantic-partsing-of-disfluent-speech.pdf)
 
 ### 2020
+- **Planning and generating natural and diverse disfluent texts as augmentation for disfluency detection.** Yang et al. *EMNLP 2020*. [**[pdf]**](https://www.aclweb.org/anthology/2020.emnlp-main.113.pdf) [**[bib]**](https://www.aclweb.org/anthology/2020.emnlp-main.113.bib)
+
 - **Multi-task self-supervised learning for disfluency detection.** Wang et al. *AAAI 2020*. [**[pdf]**](https://arxiv.org/pdf/1908.05378.pdf) 
 
 - **Controllable time-delay transformer for real-time punctuation prediction and disfluency detection.** Chen et al. *ICASSP 2020*. [**[pdf]**](https://arxiv.org/pdf/2003.01309.pdf) [**[bib]**](https://dblp.org/rec/conf/icassp/ChenCLW20.html?view=bibtex)
