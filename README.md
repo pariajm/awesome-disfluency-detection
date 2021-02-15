@@ -17,8 +17,8 @@ A curated list of awesome disfluency detection papers along with the released co
 
 ## Disfluency Detection Papers
 ### 2021
-- **Semantic parsing of disfluent speech.** Sen et al. *EACL 2021*. [**[pdf]**](https://assets.amazon.science/14/96/a1234b3941b98728d63540833193/semantic-partsing-of-disfluent-speech.pdf)
-
+- **Effects of duration, locality, and surprisal in speech disfluency prediction in English spontaneous speech prediction in English spontaneous speech.** Dammalapati et al. *Society for Computation in Linguistics (SCiL) 2021*. [**[pdf]**](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1229&context=scil)
+ 
 ### 2020
 - **Multi-task self-supervised learning for disfluency detection.** Wang et al. *AAAI 2020*. [**[pdf]**](https://arxiv.org/pdf/1908.05378.pdf) 
 
@@ -46,6 +46,8 @@ A curated list of awesome disfluency detection papers along with the released co
 - **Adapting translation models for transcript disfluency detection.** Dong et al. *AAAI 2019*. [**[pdf]**](https://www.aaai.org/ojs/index.php/AAAI/article/view/4597) [**[bib]**](https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/download/bibtex?submissionId=4597&publicationId=3002)
 
 - **Neural constituency parsing of speech transcripts.** Jamshid Lou et al. *NAACL 2019*. [**[pdf]**](https://www.aclweb.org/anthology/N19-1282.pdf) [**[bib]**](https://www.aclweb.org/anthology/N19-1282.bib) [**[code]**](https://github.com/pariajm/joint-disfluency-detector-and-parser/tree/naacl2019)
+
+- **Expectation and locality effects in the prediction of disfluent fillers and repairs in English speech.** Dammalapati et al. *NAACL Student Research Workshop 2019*. [**[pdf]**](https://www.aclweb.org/anthology/N19-3015.pdf) [**[bib]**](https://www.aclweb.org/anthology/N19-3015.bib)
 
 - **Giving attention to the unexpected: using prosody innovations in disfluency detection.** Zayats et al. *NAACL 2019*. [**[pdf]**](https://www.aclweb.org/anthology/N19-1008.pdf) [**[bib]**](https://www.aclweb.org/anthology/N19-1008.bib) [**[code]**](https://github.com/vickyzayats/disfluency_detection)
 
