@@ -24,7 +24,7 @@ A curated list of awesome disfluency detection papers along with the released co
 ### 2020
 - **Improved robustness to disfluencies in RNN-Transducer based speech recognition.** Mendelev et al. *Arxiv 2020*. [**[pdf]**](https://arxiv.org/pdf/2012.06259.pdf) 
 
-- **Planning and generating natural and diverse disfluent texts as augmentation for disfluency detection.** Yang et al. *EMNLP 2020*. [**[pdf]**](https://www.aclweb.org/anthology/2020.emnlp-main.113.pdf) [**[bib]**](https://www.aclweb.org/anthology/2020.emnlp-main.113.bib)
+- **Planning and generating natural and diverse disfluent texts as augmentation for disfluency detection.** Yang et al. *EMNLP 2020*. [**[pdf]**](https://www.aclweb.org/anthology/2020.emnlp-main.113.pdf) [**[bib]**](https://www.aclweb.org/anthology/2020.emnlp-main.113.bib) [**[code]**](https://github.com/GT-SALT/Disfluency-Generation-and-Detection)
 
 - **Multi-task self-supervised learning for disfluency detection.** Wang et al. *AAAI 2020*. [**[pdf]**](https://arxiv.org/pdf/1908.05378.pdf) 
 
