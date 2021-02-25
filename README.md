@@ -45,7 +45,7 @@ A curated list of awesome disfluency detection papers along with the released co
 - **End-to-end speech recognition and disfluency removal.** Jamshid Lou et al. *EMNLP Findings 2020*. [**[pdf]**](https://arxiv.org/abs/2009.10298v2) [**[bib]**](https://www.aclweb.org/anthology/2020.findings-emnlp.186.bib) [**[code]**](https://github.com/pariajm/e2e-asr-and-disfluency-removal-evaluator)
 
 - **Planning and generating natural and diverse disfluent texts as augmentation for disfluency detection.** Yang et al. *EMNLP 2020*. [**[pdf]**](https://www.aclweb.org/anthology/2020.emnlp-main.113.pdf) [**[bib]**](https://www.aclweb.org/anthology/2020.emnlp-main.113.bib) [**[code]**](https://github.com/GT-SALT/Disfluency-Generation-and-Detection)
-- 
+
 - **Combining self-training and self-supervised learning for unsupervised disfluency detection.** Wang et al. *EMNLP 2020*. [**[pdf]**](http://ir.hit.edu.cn/~slwang/emnlp2020.pdf) [**[bib]**](https://www.aclweb.org/anthology/2020.emnlp-main.142.bib) [**[code]**](https://github.com/scir-zywang/self-supervised-active-learning-disfluency)
 
 - **Re-framing incremental deep language models for dialogue processing with multi-task learning.** Rohanian et al. *COLING 2020*. [**[pdf]**](https://www.aclweb.org/anthology/2020.coling-main.43.pdf) [**[bib]**](https://www.aclweb.org/anthology/2020.coling-main.43.bib) [**[code]**](https://github.com/mortezaro/mtl-disfluency-detection)
