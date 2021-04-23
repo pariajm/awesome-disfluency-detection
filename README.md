@@ -137,14 +137,14 @@ model requires large annotated treebanks that contain both disfluencies and synt
 
 * [Joint incremental disfluency detection and dependency parsing.](https://www.aclweb.org/anthology/Q14-1011.pdf) Honnibal *et al.* TACL 2014. [[bib]](https://www.aclweb.org/anthology/Q14-1011.bib)
 
-### Disfluency Detection in ASR Models
+### E2E Speech Recognition and Disfluency Removal
 *Most disfluency detectors are applied as an intermediate step between a speech recognition and a downstream task. Unlike the conventional pipeline models, some studies have explored end-to-end speech recoginition and disfluency removal.*
 
 * [Improved robustness to disfluencies in RNN-Transducer based speech recognition.](https://assets.amazon.science/11/9c/1377940f42a58324c408b1017a2f/improved-robustness-to-disfluencies-in-rnn-transducer-based-speech-recognition.pdf) Mendelev *et al.* Arxiv 2020. [[bib]](https://dblp.org/rec/journals/corr/abs-2012-06259.html?view=bibtex)
 
 * [End-to-end speech recognition and disfluency removal.](https://www.aclweb.org/anthology/2020.findings-emnlp.186.pdf) Jamshid Lou *et al.* EMNLP Findings 2020. [[bib]](https://www.aclweb.org/anthology/2020.findings-emnlp.186.bib) [[code]](https://github.com/pariajm/e2e-asr-and-disfluency-removal-evaluator)
 
-### Disfluency Detection in Speech Translation Models
+### E2E Speech Translation and Disfluency Removal
 *While most of the end-to-end speech translation studies have explored translating read speech, there are a few studies that examine the end-to-end conversational speech translation, where the task is to directly translate source disfluent speech into target fluent texts.*
 
 * [NAIST’s machine translation systems for IWSLT 2020 conversational speech translation task.](https://www.aclweb.org/anthology/2020.iwslt-1.21.pdf) Fukuda *et al.* IWSLT 2020. [[bib]](https://www.aclweb.org/anthology/2020.iwslt-1.21.bib) 
