@@ -1,5 +1,5 @@
 # Awesome Disfluency Detection
-A curated list of awesome disfluency detection publications along with their released code (if available) and bibliography.
+A curated list of awesome disfluency detection publications along with their released code (if available) and bibliography. A chronological order of the published papers is available [here](https://github.com/pariajm/awesome-disfluency-detection/tree/chronologically-ordered-papers).
 
 ## Contributing
 Please feel free to send me pull requests or [email me](#contact) to add a new resource.
