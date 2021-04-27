@@ -114,6 +114,8 @@ model requires large annotated treebanks that contain both disfluencies and synt
 *Disfluency detection models are usually trained and evaluated on Switchboard corpus. Switchboard is the largest disfluency annotated dataset; however, only about
 6% of the words in the Switchboard are disfluent. Some studies have suggested new data augmentation techniques to mitigate the scarcity of gold disfluency-labeled data.*
 
+* [Disfluency detection with unlabeled data and small BERT models.](https://arxiv.org/pdf/2104.10769.pdf) Rocholl *et al.* Submitted to INTERSPEECH 2021.
+
 * [Planning and generating natural and diverse disfluent texts as augmentation for disfluency detection.](https://www.aclweb.org/anthology/2020.emnlp-main.113.pdf) Yang *et al.* EMNLP 2020. [[bib]](https://www.aclweb.org/anthology/2020.emnlp-main.113.bib) [[code]](https://github.com/GT-SALT/Disfluency-Generation-and-Detection/tree/main/disfluency-detection)
 
 * [Combining self-training and self-supervised learning for unsupervised disfluency detection.](https://www.aclweb.org/anthology/2020.emnlp-main.142.pdf) Wang *et al.* EMNLP 2020. [[bib]](https://www.aclweb.org/anthology/2020.emnlp-main.142.bib) [[code]](https://github.com/scir-zywang/self-training-self-supervised-disfluency)
