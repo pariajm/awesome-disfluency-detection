@@ -176,6 +176,7 @@ model requires large annotated treebanks that contain both disfluencies and synt
 # Theses
 
 * [Preliminaries to a theory of speech disfluencies.](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.1977&rep=rep1&type=pdf) Shriberg. PhD Thesis 1994. [[bib]](https://www.bibsonomy.org/bibtex/164e23b6c85366875aae36bf4133b113e/nlp)
+* [Disfluent Speech Segments Detection and Remediation.](https://www.proquest.com/docview/2219204020) Arbajian. PhD Thesis 2019.
 
 
 # Contact
